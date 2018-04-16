@@ -264,7 +264,7 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 SetBatchLines -1
 #SingleInstance,Force
-#Include Chrome.ahk
+#Include ..\..\contributers\GeekDude\Chrome.ahk
 Tab:=Chm_Create_Instance("C:\Users\yawik\AppData\Local\Google\Chrome\User Data\ChromeBot") ;Create instance using default Profile
 Chm_Navigate(Tab,"
 )
