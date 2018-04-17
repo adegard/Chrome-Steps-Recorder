@@ -8,7 +8,7 @@
 5. open internet explorer
 6. run **chrome steps recorder.ahk**
 7. ctrl + left mouse click = recorded action
-8. (optional) enter text to the input box if you clicked on an input element in the website
+8. (optional) enter text to the input box if you clicked on an input element in the website(use ctrl+v to paste the last input to save time)
 9. ctrl + alt + left mouse click = end recording
 10. when you're done, a new script will be created next to the **chrome steps recorder.ahk**
 
